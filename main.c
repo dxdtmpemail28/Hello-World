@@ -3,6 +3,6 @@
 
 main()
 {
-printf("Hello, world\n");
+printf("Hello, world1\n");
 getch();
 }
